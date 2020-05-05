@@ -15,8 +15,7 @@
    :aliases {"test-cljs" ["doo" "rhino" "test" "once"]
              "test"      ["do" "test," "test-cljs"]
              "cleantest" ["do" "clean," "test"]
-             "install"   ["do" "clean," "install"]
-             "deploy"    ["do" "clean," "deploy" "clojars"]}
+             "install"   ["do" "clean," "install"]}
 
   :source-paths ["src/clj" "src/cljc" "src/cljs"]
   :cljsbuild
