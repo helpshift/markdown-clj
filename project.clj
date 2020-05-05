@@ -1,6 +1,6 @@
-(defproject markdown-clj "1.10.4"
+(defproject helpshift/markdown-clj "1.10.4-1-feature/styled-text-SNAPSHOT"
   :description "Markdown parser"
-  :url "https://github.com/yogthos/markdown-clj"
+  :url "https://github.com/helpshift/markdown-clj"
   :license {:name "Eclipse Public License"
             :url  "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.9.0"]
