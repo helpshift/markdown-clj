@@ -1,4 +1,4 @@
-(defproject helpshift/markdown-clj "1.10.4-1-feature/styled-text-SNAPSHOT"
+(defproject helpshift/markdown-clj "1.10.4-1-styled-text-SNAPSHOT"
   :description "Markdown parser"
   :url "https://github.com/helpshift/markdown-clj"
   :license {:name "Eclipse Public License"
